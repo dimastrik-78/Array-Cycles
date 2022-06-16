@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 10.06.2022 14:39:27 : Starting C:/zWork/UnityVersion/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,4237ms
+moved types parse time: 36ms
+candidates parse time : 0ms
+C# parse time         : 135ms
+candidates check time : 22ms
+console write time    : 0ms
+
